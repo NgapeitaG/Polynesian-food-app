@@ -6,6 +6,15 @@
 <link href="main.css" rel="stylesheet" type="text/css">
 <link href="https://fonts.googleapis.com/css?family=ZCOOL+KuaiLe" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Amatic+SC|ZCOOL+KuaiLe" rel="stylesheet">
+<script>
+    var mapboxgl = require('mapbox-gl/dist/mapbox-gl.js');
+
+mapboxgl.accessToken = 'pk.eyJ1IjoibmdhcGVpdGFnIiwiYSI6ImNqcm9uOTA2NjBicjQ0NnRkajc5M2x4Z2wifQ.nEzegpKsSXDLZHkhfnN5yw';
+var map = new mapboxgl.Map({
+  container: 'YOUR_CONTAINER_ELEMENT_ID',
+  style: 'mapbox://styles/mapbox/streets-v11'
+});
+    </script>
 </head>
 
 <body>
