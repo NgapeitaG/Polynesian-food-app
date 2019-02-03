@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@mapbox/react-native-mapbox-gl": "^6.1.3"
+  }
+}
