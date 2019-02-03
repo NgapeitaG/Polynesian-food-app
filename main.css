@@ -2,10 +2,14 @@
 /* CSS Document */
 body{
 	background-color:burlywood;
+	background-image: url("Tropical tree.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center; 
 }
 
 h1 {
-	margin-top:150px;
+	margin-top:50px;
 	color:lightgoldenrodyellow;
 	text-shadow: 24px 25px 3px saddlebrown;
 	text-decoration-style: wavy;
@@ -20,10 +24,14 @@ p {
 	color:saddlebrown;
 	font-size:36px;
 	text-align:center;
-	padding-left:8em;
-	padding-right:8em;
+	padding-left:3em;
+	padding-right:3em;
 	padding-top:18px;
+	padding-bottom:18px;
 	font-family: 'Amatic SC', cursive;
+	background-color: lightgoldenrodyellow;
+	width:15em;
+	border-radius:15px;
 }
 
 .button {
