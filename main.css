@@ -48,3 +48,7 @@ p {
   cursor: pointer;
 		font-family: 'Amatic SC', cursive;
 }
+
+#map {
+	margin-left:-600px;
+}
