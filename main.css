@@ -32,6 +32,21 @@ p {
 	background-color: lightgoldenrodyellow;
 	width:15em;
 	border-radius:15px;
+	opacity: 0.86;
+}
+
+h2 {
+	color:saddlebrown;
+	font-size:24px;
+	text-align:center;
+	padding:12px;
+	margin-top:-18em;
+	margin-left:47em;
+	font-family: 'Amatic SC', cursive;
+	background-color: lightgoldenrodyellow;
+	width:8em;
+	border-radius:15px;
+	opacity: 0.86;
 }
 
 .button {
@@ -51,4 +66,24 @@ p {
 
 #map {
 	margin-left:-600px;
+}
+
+div {
+  width: 100px;
+  height: 100px;
+  background: red;
+  -webkit-transition: width 2s, height 2s, -webkit-transform 2s; /* Safari */
+  transition: width 2s, height 2s, transform 2s;
+}
+
+div:hover {
+  width: 300px;
+  height: 300px;
+  -webkit-transform: rotate(180deg); /* Safari */
+  transform: rotate(180deg);
+}
+
+.img{
+	margin-left:67em;
+	margin-top:-6.5em;
 }
