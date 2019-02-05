@@ -40,7 +40,7 @@ h2 {
 	font-size:24px;
 	text-align:center;
 	padding:12px;
-	margin-top:-18em;
+	margin-top:-1em;
 	margin-left:47em;
 	font-family: 'Amatic SC', cursive;
 	background-color: lightgoldenrodyellow;
@@ -86,4 +86,18 @@ div:hover {
 .img{
 	margin-left:67em;
 	margin-top:-6.5em;
+}
+
+h3 {
+	color:saddlebrown;
+	font-size:24px;
+	text-align:center;
+	padding:12px;
+	margin-top:-22em;
+	margin-left:47em;
+	font-family: 'Amatic SC', cursive;
+	background-color: lightgoldenrodyellow;
+	width:8em;
+	border-radius:15px;
+	opacity: 0.86;
 }
