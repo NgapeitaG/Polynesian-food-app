@@ -49,45 +49,6 @@ h2 {
 	opacity: 0.86;
 }
 
-.button {
-  background-color: saddlebrown;
-  border: none;
-	border-radius:10px;
-  color: lightgoldenrodyellow;
-  padding: 15px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 40px;
- margin-top:40px;
-  cursor: pointer;
-		font-family: 'Amatic SC', cursive;
-}
-
-#map {
-	margin-left:-600px;
-}
-
-div {
-  width: 100px;
-  height: 100px;
-  background: red;
-  -webkit-transition: width 2s, height 2s, -webkit-transform 2s; /* Safari */
-  transition: width 2s, height 2s, transform 2s;
-}
-
-div:hover {
-  width: 300px;
-  height: 300px;
-  -webkit-transform: rotate(180deg); /* Safari */
-  transform: rotate(180deg);
-}
-
-.img{
-	margin-left:67em;
-	margin-top:-6.5em;
-}
-
 h3 {
 	color:saddlebrown;
 	font-size:24px;
@@ -113,4 +74,82 @@ h4 {
 	background-color: lightgoldenrodyellow;
 	width:8em;
 	border-radius:15px;
+}
+
+h5 {
+	color:saddlebrown;
+	font-size:24px;
+	text-align:center;
+	padding:12px;
+	margin-top:-1em;
+	margin-left:2em;
+	font-family: 'Amatic SC', cursive;
+	background-color: lightgoldenrodyellow;
+	width:8em;
+	border-radius:15px;
+}
+
+h6 {
+	color:saddlebrown;
+	font-size:24px;
+	text-align:center;
+	padding:12px;
+	margin-top:-24em;
+	margin-left:14em;
+	font-family: 'Amatic SC', cursive;
+	background-color: lightgoldenrodyellow;
+	width:8em;
+	border-radius:15px;
+}
+
+h7 {
+	color:saddlebrown;
+	font-size:24px;
+	text-align:center;
+	padding:12px;
+	margin-top:-15em;
+	margin-left:14em;
+	font-family: 'Amatic SC', cursive;
+	background-color: lightgoldenrodyellow;
+	width:8em;
+	border-radius:15px;
+}
+
+.button {
+  background-color: saddlebrown;
+  border: none;
+	border-radius:10px;
+  color: lightgoldenrodyellow;
+  padding: 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 40px;
+ margin-top:40px;
+  cursor: pointer;
+  font-family: 'Amatic SC', cursive;
+}
+
+#map {
+	margin-left:-600px;
+}
+
+div {
+  width: 100px;
+  height: 100px;
+  background: red;
+  -webkit-transition: width 2s, height 2s, -webkit-transform 2s; /* Safari */
+  transition: width 2s, height 2s, transform 2s;
+}
+
+div:hover {
+  width: 300px;
+  height: 300px;
+  -webkit-transform: rotate(180deg); /* Safari */
+  transform: rotate(180deg);
+}
+
+.img{
+	margin-left:67em;
+	margin-top:-6.5em;
 }
