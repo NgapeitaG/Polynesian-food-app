@@ -80,8 +80,9 @@ h5 {
 	color:saddlebrown;
 	font-size:24px;
 	text-align:center;
-	padding:12px;
+	padding:16px;
 	margin-top:-1em;
+	margin-bottom:-36px;
 	margin-left:4em;
 	font-family: 'Amatic SC', cursive;
 	background-color: lightgoldenrodyellow;
@@ -93,7 +94,7 @@ h6 {
 	color:saddlebrown;
 	font-size:24px;
 	text-align:center;
-	padding:12px;
+	padding:16px;
 	margin-top:-24.3em;
 	margin-left:24em;
 	font-family: 'Amatic SC', cursive;
